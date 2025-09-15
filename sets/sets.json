@@ -1,6 +1,71 @@
 [
   {
-    "name" : "Test1", 
-    "ingredients" : [{"name": "NameTest", "carbsPer100" : 45.0, "fatsPer100" : 34.0, "proteinsPer100" : 45.0}]
+    "name": "KFC Original Recipe Chicken",
+    "ingredients": [
+      {
+        "name": "Pollo empanizado",
+        "carbsPer100": 15.2,
+        "fatsPer100": 18.5,
+        "proteinsPer100": 21.8
+      },
+      {
+        "name": "Mezcla de 11 especias secretas",
+        "carbsPer100": 65.3,
+        "fatsPer100": 8.2,
+        "proteinsPer100": 12.1
+      },
+      {
+        "name": "Harina de trigo",
+        "carbsPer100": 76.0,
+        "fatsPer100": 1.0,
+        "proteinsPer100": 10.0
+      }
+    ]
+  },
+  {
+    "name": "KFC Coleslaw",
+    "ingredients": [
+      {
+        "name": "Repollo picado",
+        "carbsPer100": 5.8,
+        "fatsPer100": 0.1,
+        "proteinsPer100": 1.3
+      },
+      {
+        "name": "Zanahoria rallada",
+        "carbsPer100": 9.6,
+        "fatsPer100": 0.2,
+        "proteinsPer100": 0.9
+      },
+      {
+        "name": "Aderezo cremoso",
+        "carbsPer100": 16.7,
+        "fatsPer100": 22.5,
+        "proteinsPer100": 1.2
+      }
+    ]
+  },
+  {
+    "name": "KFC Biscuit",
+    "ingredients": [
+      {
+        "name": "Harina para bizcochos",
+        "carbsPer100": 72.5,
+        "fatsPer100": 10.2,
+        "proteinsPer100": 8.5
+      },
+      {
+        "name": "Mantequilla",
+        "carbsPer100": 0.1,
+        "fatsPer100": 81.0,
+        "proteinsPer100": 0.9
+      },
+      {
+        "name": "Suero de leche",
+        "carbsPer100": 4.9,
+        "fatsPer100": 2.1,
+        "proteinsPer100": 3.3
+      }
+    ]
   }
 ]
