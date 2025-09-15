@@ -1,6 +1,6 @@
 [
   {
     "name" : "Test1", 
-    "ingredients" : [{"name": "NameTest", "carbsPer100" : 45, "fatsPer100" : 34, "proteinsPer100" : 45}]
+    "ingredients" : [{"name": "NameTest", "carbsPer100" : 45.0, "fatsPer100" : 34.0, "proteinsPer100" : 45.0}]
   }
 ]
