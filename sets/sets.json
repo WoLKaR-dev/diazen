@@ -1,6 +1,6 @@
 [
   {
-    "name": "KFC Original Recipe Chicken",
+    "name": "Original Recipe Chicken",
     "ingredients": [
       {
         "name": "Pollo empanizado",
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "name": "KFC Coleslaw",
+    "name": "Coleslaw",
     "ingredients": [
       {
         "name": "Repollo picado",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "name": "KFC Biscuit",
+    "name": "Biscuit",
     "ingredients": [
       {
         "name": "Harina para bizcochos",
